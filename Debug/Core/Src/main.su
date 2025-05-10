@@ -1,0 +1,43 @@
+C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\arm-none-eabi\include\c++\13.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/buffer.h:55:13:void flatbuffers::EndianCheck()	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/table.h:29:18:const uint8_t* flatbuffers::Table::GetVTable() const	24	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/table.h:35:13:flatbuffers::voffset_t flatbuffers::Table::GetOptionalFieldOffset(flatbuffers::voffset_t) const	24	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/schema/schema_generated.h:16808:12:uint32_t tflite::Model::version() const	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/schema/schema_generated.h:25246:29:const tflite::Model* tflite::GetModel(const void*)	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_op_resolver.h:50:11:tflite::MicroOpResolver::~MicroOpResolver()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_op_resolver.h:50:11:virtual tflite::MicroOpResolver::~MicroOpResolver()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/compiler/mlir/lite/core/api/error_reporter.h:37:11:tflite::ErrorReporter::~ErrorReporter()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/compiler/mlir/lite/core/api/error_reporter.h:37:11:virtual tflite::ErrorReporter::~ErrorReporter()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/tflite_bridge/micro_error_reporter.h:28:3:tflite::MicroErrorReporter::~MicroErrorReporter()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/tflite_bridge/micro_error_reporter.h:28:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	16	static
+../Core/Src/main.cpp:21:16:int _write(int, uint8_t*, int)	24	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:49:7:tflite::MicroMutableOpResolver<7>::~MicroMutableOpResolver()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:49:7:virtual tflite::MicroMutableOpResolver<7>::~MicroMutableOpResolver()	16	static
+../Core/Src/main.cpp:78:77:void __tcf_0()	8	static
+../Core/Src/main.cpp:46:5:int main()	376	static
+../Core/Src/main.cpp:151:6:void SystemClock_Config()	88	static
+../Core/Src/main.cpp:183:6:void Error_Handler()	8	static,ignoring_inline_asm
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/base.h:415:24:T flatbuffers::EndianScalar(T) [with T = long unsigned int]	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/base.h:426:3:T flatbuffers::ReadScalar(const void*) [with T = long int]	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/base.h:426:3:T flatbuffers::ReadScalar(const void*) [with T = short unsigned int]	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/base.h:426:3:T flatbuffers::ReadScalar(const void*) [with T = long unsigned int]	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/table.h:45:26:T flatbuffers::Table::GetField(flatbuffers::voffset_t, T) const [with T = long unsigned int]	32	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/buffer.h:188:31:const T* flatbuffers::GetRoot(const void*) [with T = tflite::Model]	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_op_resolver.h:34:7:constexpr tflite::MicroOpResolver::MicroOpResolver()	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:53:12:tflite::MicroMutableOpResolver<tOpCount>::MicroMutableOpResolver() [with unsigned int tOpCount = 7]	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:225:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddDequantize() [with unsigned int tOpCount = 7]	48	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:269:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddExpandDims() [with unsigned int tOpCount = 7]	48	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:195:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddConv2D(const TFLMRegistration&) [with unsigned int tOpCount = 7]	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:512:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddReshape() [with unsigned int tOpCount = 7]	48	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:437:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddMean() [with unsigned int tOpCount = 7]	48	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:328:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddFullyConnected(const TFLMRegistration&) [with unsigned int tOpCount = 7]	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:412:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddLogistic() [with unsigned int tOpCount = 7]	48	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/base.h:415:24:T flatbuffers::EndianScalar(T) [with T = long int]	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/base.h:415:24:T flatbuffers::EndianScalar(T) [with T = short unsigned int]	16	static
+D:/MPU6050/FallDetectioncpp/third_party/flatbuffers/include/flatbuffers/buffer.h:175:25:T* flatbuffers::GetMutableRoot(void*) [with T = tflite::Model]	16	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:671:16:TfLiteStatus tflite::MicroMutableOpResolver<tOpCount>::AddBuiltin(tflite::BuiltinOperator, const TFLMRegistration&, tflite::TfLiteBridgeBuiltinParseFunction) [with unsigned int tOpCount = 7]	32	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:55:27:const TFLMRegistration* tflite::MicroMutableOpResolver<tOpCount>::FindOp(tflite::BuiltinOperator) const [with unsigned int tOpCount = 7]	24	static
+../Core/Src/main.cpp:189:1:void __static_initialization_and_destruction_0()	8	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:67:27:const TFLMRegistration* tflite::MicroMutableOpResolver<tOpCount>::FindOp(const char*) const [with unsigned int tOpCount = 7]	24	static
+D:/MPU6050/FallDetectioncpp/tensorflow/../tensorflow/lite/micro/micro_mutable_op_resolver.h:78:36:TfLiteStatus (* tflite::MicroMutableOpResolver<tOpCount>::GetOpDataParser(tflite::BuiltinOperator) const)(const tflite::Operator*, tflite::ErrorReporter*, tflite::BuiltinDataAllocator*, void**) [with unsigned int tOpCount = 7]	24	static
+../Core/Src/main.cpp:189:1:cpp)	8	static
